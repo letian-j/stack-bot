@@ -18,8 +18,8 @@
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/letian-j/letian-stack-bot.git
-cd letian-stack-bot
+git clone https://github.com/letian-j/stack-bot.git
+cd stack-bot
 ```
 
 2. Install required dependencies:
